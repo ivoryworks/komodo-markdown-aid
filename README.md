@@ -1,4 +1,29 @@
-komodo-markdown-aid
-===================
+#Komodo Markdown Aid
+##What is this?
+This is the Markdown editing and previewing macros for [Komodo IDE/Edit](http://komodoide.com/).
 
-Markdown preview macro for Komodo IDE/Edit
+![Screenshot](Screenshot.png)
+
+##Installing
+Download this project and Import to Komodo toolbox.  
+(Select "Import Folder From File System" in Toolbox menu).
+
+##Usage
+1. Create or Open MarkdownFile(.md).
+2. Edit and Save.
+
+Then, preview browser opens.
+
+
+##RECOMMEND
+Recommend you to use to download the strapdown.js(and other files).  
+and  
+Configure '**strapdownPath**' in Preview macro.
+
+**strapdownPath:**  
+Default is Strapdown.js hosting Web URL.  
+If you want to preview comfortably, please download Strapdown.js(and other files).
+
+##Credits
+Thanx! [strapdown.js](http://strapdownjs.com/).  
+GitHub :[https://github.com/arturadib/strapdown](https://github.com/arturadib/strapdown)
