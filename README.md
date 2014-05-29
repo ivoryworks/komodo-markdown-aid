@@ -14,15 +14,8 @@ Download this project and Import to Komodo toolbox.
 
 Then, preview browser opens.
 
-
-##RECOMMEND
-Recommend you to use to download the strapdown.js(and other files).  
-and  
-Configure '**strapdownPath**' in Preview macro.
-
-**strapdownPath:**  
-Default is Strapdown.js hosting Web URL.  
-If you want to preview comfortably, please download Strapdown.js(and other files).
+##License
+This software is released under the MIT License, see LICENSE.txt.
 
 ##Credits
 Thanx! [strapdown.js](http://strapdownjs.com/).  
